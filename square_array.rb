@@ -5,3 +5,5 @@ def square_array(array)
   end
   return new
 end
+
+array.collect
