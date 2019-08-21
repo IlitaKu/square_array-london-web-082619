@@ -6,4 +6,3 @@ def square_array(array)
   return new
 end
 
-array.collect {|number| number * number}
